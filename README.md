@@ -1,7 +1,7 @@
 # Ionic Calendar plugin 
 
 for iOS and Android, by [Robert Aarts](http://blog.lokkilok.com)
-based upn the Phonegap-Calendar-Plugin by [Eddy Verbruggen](http://www.x-services.nl)
+based upon the [Phonegap-Calendar-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin) by [Eddy Verbruggen](http://www.x-services.nl)
 
 1. [Description](https://github.com/lokkilok/Ionic-Calendar-Plugin#1-description)
 2. [Installation](https://github.com/lokkilok/Ionic-Calendar-Plugin2-installation)
@@ -128,7 +128,7 @@ Creating an event for 3 full days
 
 ## 4. CREDITS ##
 
-This plugin was is based by the PhoneGap-Calendar-Plugmin by [Eddy Verbruggen](http://www.x-services.nl).
+This plugin was is based by the [Phonegap-Calendar-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin) by [Eddy Verbruggen](http://www.x-services.nl).
 The main difference is that this version makes use of event ids, so that changes to events can be propagated to
 entries in the calendar.
 Also the JS in this package is packages as an angular module which is the more natural way to add it to an Ionic project.
