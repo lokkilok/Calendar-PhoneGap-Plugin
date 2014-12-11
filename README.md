@@ -4,7 +4,7 @@ for iOS and Android, by [Robert Aarts](http://blog.lokkilok.com)
 based upon the [Phonegap-Calendar-Plugin](https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin) by [Eddy Verbruggen](http://www.x-services.nl)
 
 1. [Description](https://github.com/lokkilok/Ionic-Calendar-Plugin#1-description)
-2. [Installation](https://github.com/lokkilok/Ionic-Calendar-Plugin2-installation)
+2. [Installation](https://github.com/lokkilok/Ionic-Calendar-Plugin#2-installation)
 3. [Usage](https://github.com/lokkilok/Ionic-Calendar-Plugin#3-usage)
 4. [Credits](https://github.com/lokkilok/Ionic-Calendar-Plugin#4-credits)
 5. [License](https://github.com/lokkilok/Ionic-Calendar-Plugin#5-license)
